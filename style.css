@@ -68,20 +68,20 @@ body {
     margin-bottom: 25px;
 }
 
-.form_campo input{
+.form_grupo input{
     border: 1px solid #e4dfdf
 }
 
-.form_campo input:focus {
+.form_grupo input:focus {
     border-color: #d44436;
     outline: none;
 }
 
-.form_campo.error input{
+.form_grupo.error input{
     border: 2px solid #d44436;
 }
 
-.form_campo.error .error-message {
+.form_grupo.error .error-message {
     display: block;
 }
 
